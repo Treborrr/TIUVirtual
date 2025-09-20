@@ -10,9 +10,9 @@ export interface StudentData {
 }
 
 const DEFAULT_DATA: StudentData = {
-  name: "ROBERT LEONARDO ALVARADO",
-  studentCode: "202111912",
-  bannerId: "N01182082",
+  name: "Ingresar Nombre",
+  studentCode: "202191xxx",
+  bannerId: "N01182xxx",
   career: "Ciencias de la Computación",
   campus: "Campus San Miguel",
   profileImage: undefined
